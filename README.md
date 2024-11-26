@@ -26,4 +26,5 @@ School> db.Trainees({name: "", location:"", course:""})
 
 ## For Project
 School> db.Projec({name: "", location:"", course:""})
-![Project](/screenshots/mongo_cmd2.jpg)
+
+![Project](/screenshots/mong_cmd2.jpg)
