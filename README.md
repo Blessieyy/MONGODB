@@ -13,8 +13,7 @@
 # Add collecions
 
 First Create a document that will populate he collections and document
-
-## Add the collection using db.collecionName and using the Data Fields for the document to fill in the details
+Add the collection using db.collecionName and using the Data Fields for the document to fill in the details
 
 ## collections are, Facilitators, Trainees and Projects
 
